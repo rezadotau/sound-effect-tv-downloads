@@ -16,6 +16,9 @@ Tap a link below — the download starts directly.
 - [MP3 (320kbps, smaller file)](https://github.com/soundeffecttv/sound-effect-tv-downloads/raw/main/wind/wind-sound-10min.mp3)
 - [FLAC (lossless quality)](https://github.com/soundeffecttv/sound-effect-tv-downloads/raw/main/wind/wind-sound-10min.flac)
 
+### Storm Wind – Howling Gusts (1 minute)
+- [MP3 (320kbps)](https://github.com/soundeffecttv/sound-effect-tv-downloads/raw/main/storm-wind/storm-wind-sound-effect.mp3)
+
 ### Whoosh Transitions Pack (6 sounds, WAV)
 - [Download all 6 (ZIP)](https://github.com/soundeffecttv/sound-effect-tv-downloads/raw/main/whoosh/whoosh-transitions-pack.zip)
 - [Fast Whoosh](https://github.com/soundeffecttv/sound-effect-tv-downloads/raw/main/whoosh/01-fast-whoosh.wav)
