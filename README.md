@@ -10,10 +10,17 @@ You may not resell or re-upload these files as a standalone sound library.
 
 ## How to download
 
-Open the **Releases** page, pick a sound, and tap the file you want under **Assets**:
-https://github.com/rezadotau/sound-effect-tv-downloads/releases
+Tap a link below — the download starts directly.
 
-| Sound | Formats | Link |
-|---|---|---|
-| Wind Sound (10 minutes) | MP3 320kbps, FLAC lossless | [Download](https://github.com/rezadotau/sound-effect-tv-downloads/releases/tag/wind-sound-10min) |
-| Whoosh Transitions Pack (6 sounds) | WAV | [Download](https://github.com/rezadotau/sound-effect-tv-downloads/releases/tag/whoosh-transitions-pack) |
+### Wind Sound (10 minutes)
+- [MP3 (320kbps, smaller file)](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/wind/wind-sound-10min.mp3)
+- [FLAC (lossless quality)](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/wind/wind-sound-10min.flac)
+
+### Whoosh Transitions Pack (6 sounds, WAV)
+- [Download all 6 (ZIP)](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/whoosh-transitions-pack.zip)
+- [Fast Whoosh](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/01-fast-whoosh.wav)
+- [Deep Whoosh](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/02-deep-whoosh.wav)
+- [Double Swoosh](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/03-double-swoosh.wav)
+- [Cinematic Riser](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/04-cinematic-riser.wav)
+- [Whoosh + Impact](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/05-whoosh-impact.wav)
+- [Glitch Swipe](https://github.com/rezadotau/sound-effect-tv-downloads/raw/main/whoosh/06-glitch-swipe.wav)
